@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "https://images.pexels.com/photos/207700/pexels-photo-207700.jpeg?cs=srgb&dl=pexels-pixabay-207700.jpg&fm=jpg&_gl=1*akwnll*_ga*Njk2NTQ3MjgxLjE3MTE0NDA4MDA.*_ga_8JE65Q40S6*MTcyOTc1NzkxOS4yLjEuMTcyOTc1Nzk0NS4wLjAuMA..",
+      "img": "",
+      "name": "Firdavs",
+      "surname": "Avazxonov",
+      "age": "20",
+      "study": "university"
+    },
+    {
+      "id": "2",
+      "img": "https://images.pexels.com/photos/207700/pexels-photo-207700.jpeg?cs=srgb&dl=pexels-pixabay-207700.jpg&fm=jpg&_gl=1*akwnll*_ga*Njk2NTQ3MjgxLjE3MTE0NDA4MDA.*_ga_8JE65Q40S6*MTcyOTc1NzkxOS4yLjEuMTcyOTc1Nzk0NS4wLjAuMA..",
+      "name": "Firdavs",
+      "surname": "Avazxonov",
+      "age": "20",
+      "study": "university"
+    },
+    {
+      "id": "3",
+      "img": "https://images.pexels.com/photos/207700/pexels-photo-207700.jpeg?cs=srgb&dl=pexels-pixabay-207700.jpg&fm=jpg&_gl=1*akwnll*_ga*Njk2NTQ3MjgxLjE3MTE0NDA4MDA.*_ga_8JE65Q40S6*MTcyOTc1NzkxOS4yLjEuMTcyOTc1Nzk0NS4wLjAuMA..",
+      "name": "Nishonov",
+      "surname": "Bobur",
+      "age": "19",
+      "study": "litse"
+    },
+    {
+      "id": "5e60",
+      "img": "https://images.pexels.com/photos/207700/pexels-photo-207700.jpeg?cs=srgb&dl=pexels-pixabay-207700.jpg&fm=jpg&_gl=1*akwnll*_ga*Njk2NTQ3MjgxLjE3MTE0NDA4MDA.*_ga_8JE65Q40S6*MTcyOTc1NzkxOS4yLjEuMTcyOTc1Nzk0NS4wLjAuMA..",
+      "name": "Bobur",
+      "surname": "Nishnov",
+      "age": "21",
+      "study": "university"
+    },
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "img": "",
+      "name": "Nurillo",
+      "surname": "Suyunboyev",
+      "age": "25",
+      "study": "National University"
+    }
+  ]
+}
